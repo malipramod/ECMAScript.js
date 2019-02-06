@@ -7,6 +7,6 @@ function g({ name: n, val: v }) {
 function h({ name, val }) {
     console.log(name, val);
 }
-f(["bar", 42]);
-g({ name: "foo", val: 7 });
-h({ name: "bar", val: 42 });
+f(["bar", 42]);                 //bar 42
+g({ name: "foo", val: 7 }); //foo 7
+h({ name: "bar", val: 42 });    //bar 42

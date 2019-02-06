@@ -19,3 +19,14 @@ ECMAScript - Javascript
         14 Built in Methods
         15 Promises
         16 Meta Programming
+    ES-7
+        1. Array Proto Types
+        2. Exponentials
+    ES-8
+        1. Objects
+        2. String Padding
+        3. Async-Await
+    ES-9
+        1. Async Interactions
+        2. Finally in Promises
+        3. Rest Spread Properties

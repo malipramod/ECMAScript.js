@@ -8,6 +8,8 @@ for (let i = 0; i < b.length; i++) {
     let y = b[i];
 }
 
+///////
+
 let callbacks = [];
 for (let i = 0; i <= 2; i++) {
     callbacks[i] = () => i * 2
