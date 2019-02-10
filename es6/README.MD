@@ -1,9 +1,9 @@
 # ECMAScript.js
-ECMAScript - Javascript
+    ECMAScript - Javascript
 
 # Content:
-    ES-6
-        1. Constants
+ES-6 + (2015) Features:
+    1. Constants
             1. Constants
         2. Scoping
             1. Function Scoping
@@ -56,26 +56,3 @@ ECMAScript - Javascript
         16 Meta Programming
             1. Proxying
             2. Relfection
-
-    ES-7
-        1. Array Proto Types
-        2. Exponentials
-
-    ES-8
-        1. Objects
-        2. String Padding
-        3. Async-Await
-
-    ES-9
-        1. Async Interactions
-        2. Finally in Promises
-        3. Rest Spread Properties
-        
-    Es-10
-        1. Array.flat() function
-        2. Array.flatMap() function
-        3. Object.fromEntries() function
-        4. String.trimStart() and String.trimEnd() functions
-        5. Try Catch Binding
-        6. Function().toString()
-        7. Symbol.description
