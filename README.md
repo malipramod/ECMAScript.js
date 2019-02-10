@@ -1,7 +1,9 @@
 # ECMAScript.js
+
 ECMAScript - Javascript
 
-# Content:
+## Content
+
     ES-6
         1. Constants
             1. Constants
@@ -56,6 +58,11 @@ ECMAScript - Javascript
         16 Meta Programming
             1. Proxying
             2. Relfection
+        17. Internationalization & Localization
+            1. Collation
+            2. Currency Formatting
+            3. Date/Time Formatting
+            4. Number Formatting
 
     ES-7
         1. Array Proto Types
@@ -70,7 +77,7 @@ ECMAScript - Javascript
         1. Async Interactions
         2. Finally in Promises
         3. Rest Spread Properties
-        
+
     Es-10
         1. Array.flat() function
         2. Array.flatMap() function

@@ -1,7 +1,9 @@
 # ECMAScript.js
+
     ECMAScript - Javascript
 
-# Content:
+## Content
+
 ES-6 + (2015) Features:
     1. Constants
             1. Constants
@@ -56,3 +58,8 @@ ES-6 + (2015) Features:
         16 Meta Programming
             1. Proxying
             2. Relfection
+        17. Internationalization & Localization
+            1. Collation
+            2. Currency Formatting
+            3. Date/Time Formatting
+            4. Number Formatting
