@@ -1,3 +1,6 @@
+//WeakSet is a special kind of Set that does not prevent JavaScript from removing its items from memory. WeakMap is the same thing for Map.
+//JavaScript engine stores a value in memory while it is reachable (and can potentially be used).
+
 let isMarked = new WeakSet();
 let attachedData = new WeakMap();
 
