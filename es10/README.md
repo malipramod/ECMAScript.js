@@ -1,8 +1,10 @@
 # ECMAScript.js
     ECMAScript - Javascript
 
-# Content:
+## Content:
+
 ES-10 (2019) Features:
+
         1. Array.flat() function
         2. Array.flatMap() function
         3. Object.fromEntries() function
